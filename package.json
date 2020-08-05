@@ -1,12 +1,13 @@
 {
-  "homepage":"https://dcruzjs.github.io/social-media-dashboard-with-darkmode",
-  "name": "dark-mode-dashboard",
+  "name": "social-media-dashboard",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dcruzjs.github.io/social-media-dashboard-with-darkmode",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
-    "@testing-library/user-event": "^7.2.1",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
